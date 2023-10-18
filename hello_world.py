@@ -1,1 +1,2 @@
-print("HElejklad         sjfklaasdfasdf                      sdjf")
+print("HElejklad         sj           asds      sdjf")
+ddd
